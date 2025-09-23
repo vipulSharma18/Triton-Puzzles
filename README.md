@@ -1,5 +1,11 @@
 # Triton Puzzles
 
+## What I read/watched before attempting these puzzles:
+[1] P. Tillet, H. T. Kung, and D. Cox, “Triton: an intermediate language and compiler for tiled neural network computations,” in Proceedings of the 3rd ACM SIGPLAN International Workshop on Machine Learning and Programming Languages, Phoenix AZ USA: ACM, June 2019, pp. 10–19. doi: 10.1145/3315508.3329973.
+[2] GPU MODE, Lecture 14: Practitioners Guide to Triton, (Apr. 16, 2024). Accessed: Sept. 16, 2025. [Online Video]. Available: https://www.youtube.com/watch?v=DdTsX6DQk24
+[3] K. Sharma, “GPU Mode - Triton Internals Talk,” Kapil Sharma. Accessed: Sept. 22, 2025. [Online]. Available: https://kapilsh.github.io/posts/gpu-mode-triton-internals-talk/
+
+
 w/ [Tejas Ramesh](https://tejas3070.github.io/) and [Keren Zhou](https://www.jokeren.tech/) based on [Triton-Viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Triton-Puzzles/blob/main/Triton-Puzzles.ipynb)
